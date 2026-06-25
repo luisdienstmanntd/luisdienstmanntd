@@ -7,7 +7,7 @@ Estudando **Análise e Desenvolvimento de Sistemas** na UCS-Universidade de Caxi
 Me especializando em **arquiteturas, fluxos e como validar código gerado por IA**.
 
 ---
-Meu workflow:
+Fluxo de Trabalho:
 1. **Entendo o problema** (arquitetura, fluxo, constraints)
 2. **Peço à IA de forma clara** (prompt engineering)
 3. **Reviso e itero** (testo, refactor, valido)
