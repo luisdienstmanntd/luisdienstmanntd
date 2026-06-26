@@ -1,4 +1,4 @@
-# Luis | Dev Full-Stack em Formação — Aprimorando conhecimento em IA
+# Luis | Dev Full-Stack em Formação — Estudando Análise de Desenvolvimeto de Sistemas (UCS-Canela-RS)
 
 Bem-vindo ao meu GitHub! 
 Sou desenvolvedor em formação focado em **usar IA como ferramenta profissional** para arquitetar e entregar sistemas reais.
