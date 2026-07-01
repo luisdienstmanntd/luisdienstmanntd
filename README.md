@@ -1,4 +1,5 @@
 # Luis | Estudante de Análise e Desenvolvimento de Sistemas (UCS) | Full-Stack em formação | Next.js, React, Supabase
+Location: Canela-RS, Brasil
 
 Bem-vindo ao meu GitHub! 
 Sou desenvolvedor em formação focado em **usar IA como ferramenta profissional** para arquitetar e entregar sistemas reais.
