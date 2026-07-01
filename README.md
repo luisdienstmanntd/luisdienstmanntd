@@ -2,20 +2,17 @@
 Location: Canela-RS, Brasil
 
 Bem-vindo ao meu GitHub! 
-Sou desenvolvedor em formação focado em **usar IA como ferramenta profissional** para arquitetar e entregar sistemas reais.
-
-Estudando **Análise e Desenvolvimento de Sistemas** na UCS-Universidade de Caxias do Sul (Polo Canela-RS) e aprendendo **Full-Stack** no DevClub. 
+Sou desenvolvedor em formação, estudando **Análise e Desenvolvimento de Sistemas** na UCS-Universidade de Caxias do Sul (Polo Canela-RS) e aprendendo **Full-Stack** no DevClub. 
 Me especializando em **arquiteturas, fluxos e como validar código gerado por IA**.
 
 ---
 Fluxo de Trabalho:
 1. **Entendo o problema** (arquitetura, fluxo, constraints)
-2. **Peço à IA de forma clara** (prompt engineering)
+2. **Solicito à IA de forma clara** (prompt engineering)
 3. **Reviso e itero** (testo, refactor, valido)
 4. **Documento tudo** (README, CONTRIBUTING, arquitetura)
 5. **Entrego profissionalmente** (testes, releases, versioning)
 
-**Resultado:** Projetos que parecem feitos por dev senior, mas com velocidade IA.
 ---
 
 ## Tech Stack
@@ -27,47 +24,21 @@ Fluxo de Trabalho:
 | **BD** | PostgreSQL (Supabase) | Aprendendo |
 | **Testing** | Vitest, Playwright | Aprendendo |
 | **DevOps** | Vercel, Docker, Supabase CLI | Apredendo |
-| **IA** | Claude Code, Cursor, prompt engineering | Aprendendo| 
+| **IA** | prompt engineering, Claude Code, Cursor,  | Aprendendo| 
 | **Outras** | Git, terminal | Aprendendo |
 
 ---
 
 ## 📁 Projetos
 
-### 🏨 [Sistema de Reservas para Hotel](https://github.com/luisdienstmanntd/Reservas-Piscina-Academia)
+### Sistema de Reservas para Hotel [→ Ver repositório](https://github.com/luisdienstmanntd/Reservas-Piscina-Academia)
 
-**Sistema real, em funcionamento, para cliente real** (hotel em Gramado-RS).
+**Status:** Em uso real/testes, recebendo reservas reais.
 
-**O que é:**
-- App de reservas de piscina/academia
-- Hóspedes marcam slots com token
-- Recepção gerencia tudo em dashboard
-- WhatsApp integrado
+### Sistema de Gestão de Restaurante para Hotel  [→ Ver repositório](https://github.com/luisdienstmanntd/Gerenciador-de-reservas)
 
-**Tech:**
-- Next.js 15 (App Router)
-- Supabase + PostgreSQL
-- Vercel deployment
+**Status:** Em uso real/testes, recebendo reservas reais.
 
-**Destaques de qualidade:**
-- ✅ Arquitetura profissional (middleware, Server Actions, RLS)
-- ✅ Validação com Zod + constraints em BD
-- ✅ Testes (unitários, integração, E2E)
-- ✅ Documentação interna (`ia.navegation.md` para agentes)
-- ✅ Commits em padrão Conventional Commits
-- ✅ Release v1.0.0
-
-**Como foi feito:** Com Claude Code + Cursor. Mas:
-- ✅ Defini arquitetura completa
-- ✅ Revisei CADA linha
-- ✅ Iterei múltiplas vezes
-- ✅ Adicionei testes manualmente
-- ✅ Documentei tudo
-
-**Status:** Em produção, recebendo reservas reais.
-[→ Acessar aplicação] https://agendamentosvalledincanto.vercel.app/
-
-[→ Ver repositório](https://github.com/luisdienstmanntd/Reservas-Piscina-Academia)
 
 ---
 
@@ -77,7 +48,7 @@ Fluxo de Trabalho:
 |------|--------|--------|
 | **Análise e Desenvolvimento de Sistemas** | 📚 Em progresso | UCS (Canela-RS), 2026 |
 | **Formação FullStack Pro** | 📚 Em progresso | DevClub |
-| **Prompt Engineering** | ⭐ Especializado | Aprendizado contínuo |
+| **Prompt Engineering** | Aprendizado contínuo |
 | **Arquitetura de Sistemas** | 📚 Aprendendo | Curso + projetos reais |
 | **Testes (E2E, integração)** | 📚 Aprendendo | Playwright + Vitest |
 
@@ -85,19 +56,19 @@ Fluxo de Trabalho:
 
 ## 🎯 Meu diferencial
 
--Amante de tecnologia
--Aprendizado constante
--Procuro resolver problemas, integrando a ia, para maior produtividade e não facilidade.  
+- Amante de tecnologia
+- Aprendizado constante
+- Procuro resolver problemas, integrando a ia, para maior produtividade e não facilidade.  
 
 Provo isto com:
-- ✅ Código profissional (não é "copy-paste")
+- ✅ Código profissional
 - ✅ Testes reais (Vitest, Playwright)
 - ✅ Documentação clara (`ia.navegation.md`, README completo)
 - ✅ Commits organizados (Conventional Commits)
 - ✅ Projetos em produção (Trabalho no Hotel onde estou implementando sistemas)
 
-PROJETOS REAIS, IMPLEMENTADOS NO DIA A DIA DO HOTEL.
-UTILIZANDO TODO CONHECIMENTO ADQUIRIDO, ESPECIALMENTE EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Projetos reais, implementados nos processos do dia a dia do Hotel.
+Utilizando todo conhecimento na área hoteleira, agregado aos estudos em Análise e Desenvolvimento de Sistemas.
 
 ---
 
@@ -116,10 +87,7 @@ UTILIZANDO TODO CONHECIMENTO ADQUIRIDO, ESPECIALMENTE EM ANÁLISE E DESENVOLVIME
 | Métrica | Info |
 |---------|------|
 | **Experiência** | 2 projetos reais em produção |
-| **Stack** | Next.js, TypeScript, Supabase, Vercel |
-| **Testes** | Vitest + Playwright (aprendendo) |
-| **IA** | Claude Code, Cursor (aprendendo) |
-| **Formação** | UCS + DevClub (em progresso) |
+| **Formação** | Analista de Desenvolvimento de Sistemas - UCS + DevClub (em progresso) |
 | **Localização** | Canela-RS |
 | **Disponibilidade** | Parcial (estudando), crescente |
 
@@ -134,7 +102,6 @@ UTILIZANDO TODO CONHECIMENTO ADQUIRIDO, ESPECIALMENTE EM ANÁLISE E DESENVOLVIME
 - Honesto sobre meu nível
 - Ativo no aprendizado
 - Capaz de entregar qualidade
-- Tornando-me especialista em usar IA como ferramenta
 - Pronto para crescer rápido
 
 ---
@@ -143,7 +110,8 @@ UTILIZANDO TODO CONHECIMENTO ADQUIRIDO, ESPECIALMENTE EM ANÁLISE E DESENVOLVIME
 
 - **GitHub:** [@luisdienstmanntd](https://github.com/luisdienstmanntd)
 - **Email:** luisdienstmanntd@gmail.com
-- **LinkedIn:** [seu-username](https://linkedin.com/in/seu-username) *(adicionar se tiver)*
+- **LinkedIn:** [www.linkedin.com/in/](https://www.linkedin.com/in/luis-eduardo-dienstmann/)
+
 - **Localização:** Canela-RS 🏔️
 
 ---
