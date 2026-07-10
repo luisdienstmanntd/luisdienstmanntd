@@ -1,151 +1,226 @@
-# Luis | Estudante de Análise e Desenvolvimento de Sistemas (UCS) | Full-Stack em formação | Next.js, React, Supabase
+# Luis Eduardo Dienstmann
 
-Bem-vindo ao meu GitHub!
-Sou desenvolvedor em formação, estudando **Análise e Desenvolvimento de Sistemas** na UCS - Universidade de Caxias do Sul (Polo Canela-RS) e aprendendo **Full-Stack** no DevClub.
-Me especializando em **arquiteturas, fluxos e como validar código gerado por IA**.
+## 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
----
+Bem-vindo! Sou **estudante de ADS** na UCS (Canela-RS), cursando **DevClub FullStack Pro** para conhecimentos gerais em desenvolvimento, e **aplicando tudo em projetos reais** que resolvem problemas do hotel onde trabalho.
 
-## Fluxo de Trabalho
-
-1. **Entendo o problema** (arquitetura, fluxo, constraints)
-2. **Solicito à IA de forma clara** (prompt engineering)
-3. **Reviso e itero** (testo, refactor, valido)
-4. **Documento tudo** (README, CONTRIBUTING, arquitetura)
-5. **Entrego profissionalmente** (testes, releases, versioning)
+Meu foco: **Entender sistemas** → **Construir soluções** → **Extrair dados** → **Analisar e melhorar**
 
 ---
 
-## Tech Stack
+## 🏨 Projetos Reais em Produção
 
-| O que | Tecnologia | Nível |
-|------|-----------|-------|
-| **Frontend** | Next.js 15, React 19, TypeScript, Tailwind CSS | Aprendendo |
-| **Backend** | Node.js, Server Actions, API Routes | Aprendendo |
-| **BD** | PostgreSQL (Supabase) | Aprendendo |
-| **Testing** | Vitest, Playwright | Aprendendo |
-| **DevOps** | Vercel, Docker, Supabase CLI | Aprendendo |
-| **IA** | Prompt engineering, Claude Code, Cursor | Aprendendo |
-| **Outras** | Git, terminal | Aprendendo |
+Trabalho no **Valle D'incanto (Gramado-RS)** como Recepcionista, criando e mantendo sistemas que realmente resolvem problemas do hotel.
 
----
+### **1. Valle D'incanto — Sistema de Reservas**
+- **Status:** ✅ **Em produção** | 🔄 **Em desenvolvimento contínuo**
+- **O quê:** Sistema de agendamento para piscina e academia
+- **Onde:** Hotel Valle D'incanto, Gramado-RS
+- **Problema real:** Hóspedes precisavam ligar para recepção para agendar.Agora fazem online.(Evitando erros de agendamentos e conflitos de horários em planilhas)
+- **Stack:** Next.js 15, Supabase, TypeScript, Vercel
+- **Aprendizado Prático:**
+  - 🏢 Hospedagem em produção (Vercel)
+  - 📊 Banco de dados real (PostgreSQL)
+  - 🔐 Segurança em produção (auth, RLS, LGPD)
+  - 📈 Extração e análise de dados
+  - 🔄 Melhorias contínuas baseadas em uso real
 
-## 📁 Projetos
+**→ [Repositório](https://github.com/luisdienstmanntd/Reservas-Piscina-Academia)**
 
-### 🏨 [Sistema de Reservas — Piscina & Academia](https://github.com/luisdienstmanntd/Reservas-Piscina-Academia)
+### **2. Osteria di Lucca — Reservas de Restaurante**
+- **Status:** ✅ **Em produção** | 🔄 **Em desenvolvimento**
+- **O quê:** Sistema de reservas para restaurante
+- **Onde:** Hotel Valle D'incanto, Gramado-RS
+- **Stack:** Next.js, Firebase, TypeScript
+- **Aprendizado:** Firebase vs Supabase, diferentes arquiteturas, dados em tempo real
 
-**Sistema real, em funcionamento, para cliente real** (hotel em Gramado-RS).
-
-**O que é:**
-- App de reservas de piscina/academia
-- Hóspedes marcam slots com token
-- Recepção gerencia tudo em dashboard
-- WhatsApp integrado
-
-**Tech:** Next.js 15 (App Router), Supabase + PostgreSQL, Vercel
-
-**Destaques de qualidade:**
-- ✅ Arquitetura profissional (middleware, Server Actions, RLS)
-- ✅ Validação com Zod + constraints em BD
-- ✅ Testes (unitários, integração, E2E)
-- ✅ Commits em padrão Conventional Commits
-- ✅ Release v1.0.0
-
-**Como foi feito:** com Claude Code + Cursor, definindo a arquitetura, revisando cada linha, iterando e documentando tudo — não é código gerado e aceito sem revisão.
-
-**Status:** Em uso real no Hotel, em fase de testes e melhoria contínua.
-
-[→ Acessar aplicação](https://agendamentosvalledincanto.vercel.app/) · [→ Ver repositório](https://github.com/luisdienstmanntd/Reservas-Piscina-Academia)
+**Aplicando em produção:**
+- Sistemas funcionando com usuários reais
+- Dados reais gerando insights
+- Manutenção e melhorias contínuas
+- Aprendizado acelerado por necessidade real
 
 ---
 
-### 🍽️ [Reserva e Gestão de Restaurante](https://github.com/luisdienstmanntd/Gerenciador-de-Reservas)
+## 🎯 Como Estudo & Aplico
 
-Sistema de Reservas e Gestão de Restaurante para o Hotel.
+### **1. Fundação: ADS (UCS)**
+- Formação acadêmica em Análise e Desenvolvimento de Sistemas
+- Teoria de sistemas, banco de dados, arquitetura
+- Conceitos de análise de requisitos
 
-**O que é:**
-- Controle de Reservas, Mesas do Restaurante
-- Gestão do dia a dia do Salão pela Equipe do Hotel
-- Dashboard para Análise de Dados
+### **2. Conhecimento Geral: DevClub**
+- Cursos em múltiplas áreas: IA, Python, Power BI, análise dados, carreira
+- Frameworks: Next.js, React, TypeScript
 
-**Tech:** HTML, CSS, JavaScript
 
-**Status:** Em uso Real no Hotel, em fase de testes e melhoria contínua.
+### **3. Aplicação Real: Projetos no Hotel**
+- Não são "projetos de portfólio". São sistemas que **usuários reais usam todos os dias**
+- Dados reais que **você realmente analisa**
+- Problemas reais que **você realmente resolve**
+- Manutenção real que **você realmente gerencia**
 
-[→ Ver repositório](https://github.com/luisdienstmanntd/Gerenciador-de-Reservas)
-
-[→ Ver repositório](https://github.com/luisdienstmanntd/Gerenciador-de-Reservas)
-
----
-
-## 🎓 Formação & Aprendizado
-
-| O quê | Status | Quando |
-|------|--------|--------|
-| **Análise e Desenvolvimento de Sistemas** | 📚 Em progresso | UCS (Canela-RS), 2026 |
-| **Formação FullStack Pro** | 📚 Em progresso | DevClub |
-| **Prompt Engineering** | ⭐ Aprendizado contínuo | — |
-| **Arquitetura de Sistemas** | 📚 Aprendendo | Curso + projetos reais |
-| **Testes (E2E, integração)** | 📚 Aprendendo | Playwright + Vitest |
+### **Resultado:**
+```
+ADS (teoria) + DevClub (habilidades) + Projetos Reais (prática) = Aprendizado Sólido
+```
 
 ---
 
-## 🎯 Meu diferencial
+## 🔄 Ciclo de Desenvolvimento & Dados
 
-- Amante de tecnologia
-- Aprendizado constante
-- Procuro resolver problemas integrando IA para maior produtividade, sem abrir mão de entender o que estou entregando
+Meu fluxo de trabalho em cada projeto:
 
-Provo isto com:
-- ✅ Código revisado por mim, linha por linha
-- ✅ Testes reais (Vitest, Playwright)
-- ✅ Documentação clara (README completo, notas de arquitetura)
-- ✅ Commits organizados (Conventional Commits)
-- ✅ Projetos reais, implementados no dia a dia do hotel onde trabalho
+```
+1. PROBLEMA REAL
+   ↓
+2. ENTENDER REQUISITOS (análise ADS)
+   ↓
+3. DESENHAR SOLUÇÃO (arquitetura)
+   ↓
+4. CODIFICAR COM IA (Claude Code, Cursor)
+   - Não é "IA gera tudo"
+   - É "IA acelera, eu valido e entendo"
+   ↓
+5. TESTAR & ITERAR
+   ↓
+6. DEPLOY PRODUÇÃO (Vercel, Firebase)
+   ↓
+7. MONITORAR & COLETAR DADOS
+   - Logs estruturados
+   - User behavior
+   - Sistema performance
+   ↓
+8. ANALISAR DADOS 🔥
+   - Horários picos
+   - Taxa ocupação
+   - Cancelamentos
+   - Comportamento usuário
+   ↓
+9. MELHORIA BASEADA EM DADOS
+   - Novas features
+   - Otimizações
+   - Previsões
+   ↓
+10. REPEAT (ciclo contínuo)
+```
 
----
-
-## O que procuro
-
-- **Oportunidades de aprendizado** — estou na faculdade, com vontade de aplicar e aprimorar meus conhecimentos
-- **Projetos Full-Stack** — a cada dia aprendendo mais sobre as linguagens e tecnologias
-- **Usar IA profissionalmente** — empresas que entendem que IA bem usada é ferramenta, não atalho
-- **Remoto ou Canela-RS** — flexível
-- **Estágio, júnior ou freela** — qualquer modalidade
-
----
-
-## Perfil profissional atual
-
-| Métrica | Info |
-|---------|------|
-| **Experiência** | 2 projetos reais para o mesmo cliente (hotel) |
-| **Formação** | Análise e Desenvolvimento de Sistemas — UCS + DevClub (em progresso) |
-| **Localização** | Canela-RS |
-| **Disponibilidade** | Parcial (estudando), crescente |
-
----
-
-**Não sou (ainda):**
-- Dev sênior
-- Especialista em tudo
-- Programador "puro", sem apoio de ferramentas
-
-**Mas sou:**
-- Honesto sobre meu nível
-- Ativo no aprendizado
-- Capaz de entregar qualidade
-- Pronto para crescer rápido
+**Diferenciais:**
+- ✅ Dados reais, não sintéticos
+- ✅ Usuários reais, não fictícios
+- ✅ Problema real, não teórico
+- ✅ Produção real, não local
+- ✅ Análise aplicada, não acadêmica
 
 ---
 
-## 🔗 Contato & Links
+## 🛠️ Tech Stack & Aprendizado
+
+### Produção (Aplicado)
+- **Frontend:** React, Next.js 15, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Server Actions, APIs
+- **Dados:** Supabase (PostgreSQL), Firebase Firestore
+- **Deploy:** Vercel, Firebase Hosting
+- **Testes:** Vitest, Playwright
+
+### Ferramentas de Análise (Aprendendo)
+- **SQL:** Queries complexas, CTEs, Window functions
+- **Python:** Scripts de análise, extração de dados
+- **Power BI:** Dashboards, transformação de dados
+- **Análise Exploratória:** Padrões, previsão, insights
+
+### Formação
+- **ADS** — UCS (Canela-RS, EAD)
+- **DevClub FullStack Pro** — Cursos diversos
+- **Learning by Doing** — Projetos reais no hotel
+
+---
+
+## 📊 Aprendizado com Dados Reais
+
+Não estudo análise de dados com datasets Kaggle. Estudo com:
+
+- **Valle D'incanto (Reservas):** Qual horário piscina/academia ficam cheias?
+- **Osteria (Restaurante):** Qual tipo de reserva (casal, família, grupos)?
+- **Padrões Reais:** Cancelamentos, sazonalidade, perfil hóspede
+- **Resultado:** Dashboards, previsões, melhorias baseadas em dados
+
+---
+
+## 🎯 Diferencial 2026
+
+✅ **Honestidade:** Uso IA como ferramenta, não escondo  
+✅ **Prática:** Sistemas que usuários reais usam  
+✅ **Dados Reais:** Análise com dados verdadeiros, não fictícios  
+✅ **Ciclo Completo:** Dev → Produção → Dados → Análise → Melhoria  
+✅ **Documentação:** Código, decisões, aprendizado  
+✅ **Testes:** Confiança no que entrego  
+✅ **Produção:** Versionamento, deploy, monitoring  
+
+---
+
+## 🤝 Para Recrutadores
+
+Se você busca alguém que:
+
+✅ **Entende teoria** (ADS em andamento)  
+✅ **Tem habilidades técnicas** (DevClub + prática)  
+✅ **Cria soluções reais** (2 sistemas em produção)  
+✅ **Trabalha com dados** (análise aplicada)  
+✅ **Aprende rápido** (necessidade real acelera)  
+✅ **É honesto** (sobre IA, conhecimento, limitações)  
+✅ **Entrega** (sistemas em uso)  
+
+→ Vamos conversar!
+
+**O que procuro:**
+- Estágio/Junior em Análise de Sistemas
+- Desenvolvimento backend/full-stack
+- Trabalhos com dados e análise
+- Remoto ou Canela-RS
+
+---
+
+## 📈 Roadmap (2026-2027)
+
+### Curto Prazo (Jul-Ago 2026)
+- [ ] Aprofundar Python (análise de dados)
+- [ ] Criar dashboards Power BI com dados Valle/Osteria
+- [ ] Melhoria sistemas em produção
+
+### Médio Prazo (Set-Dez 2026)
+- [ ] Especialização em análise de dados
+- [ ] SQL avançado (performance, indexes)
+- [ ] 3º projeto: Sistema de análise/relatórios
+
+### Longo Prazo (2027+)
+- [ ] Finalizar ADS com qualidade
+- [ ] Definir especialização (análise? dev? fullstack?)
+- [ ] Oportunidade profissional alinhada
+
+---
+
+## 🔗 Conectar
 
 - **GitHub:** [@luisdienstmanntd](https://github.com/luisdienstmanntd)
 - **LinkedIn:** [luis-eduardo-dienstmann](https://www.linkedin.com/in/luis-eduardo-dienstmann/)
-- **Email:** luisdienstmanntd@gmail.com
-- **Localização:** Canela-RS 
+- **Email:** luisdienstmann@exemplo.com (atualizar)
 
 ---
-*Última atualização: Julho de 2026*
-*Dev em formação, pronto para crescer profissionalmente*
+
+## 📚 Projetos
+
+| Projeto | Status | Stack | Aprendizado |
+|---------|--------|-------|------------|
+| **Valle D'incanto** | ✅ Produção | Next.js + Supabase | Full-stack + dados |
+| **Osteria di Lucca** | ✅ Produção | Next.js + Firebase | Diferentes arquiteturas |
+
+---
+
+**Status:** 📚 Estudante ADS | 🏢 Desenvolvedor Valle | 🚀 Criador de Soluções | 📊 Aprendendo Análise de Dados
+
+*Última atualização: Junho 2026*
+
+---
+
+> "Não sou dev full-stack sênior. Sou estudante de ADS criando soluções reais, aprendendo rápido, entendendo sistemas, extraindo dados, analisando padrões."
